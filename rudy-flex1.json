@@ -1,0 +1,208 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+        "aspectRatio": "1:1",
+        "aspectMode": "cover",
+        "margin": "45px",
+        "size": "xxl"
+      },
+      {
+        "type": "text",
+        "text": "อัพเดท: 10/27/22",
+        "color": "#898988",
+        "size": "xs",
+        "position": "absolute",
+        "offsetTop": "10px",
+        "offsetStart": "150px"
+      },
+      {
+        "type": "text",
+        "text": "(15:00)",
+        "color": "#000000",
+        "size": "xs",
+        "position": "absolute",
+        "offsetTop": "10px",
+        "offsetStart": "250px"
+      },
+      {
+        "type": "text",
+        "text": "WT LUNAR GLOSS WHITE 8X12 PM",
+        "margin": "xl",
+        "weight": "bold",
+        "size": "md",
+        "offsetStart": "10px"
+      },
+      {
+        "type": "text",
+        "text": "200 บาท",
+        "margin": "lg",
+        "color": "#A50116",
+        "weight": "bold",
+        "size": "xl",
+        "offsetStart": "10px"
+      },
+      {
+        "type": "text",
+        "text": "0300507000",
+        "style": "normal",
+        "size": "13px",
+        "color": "#484848",
+        "offsetStart": "215px",
+        "offsetBottom": "20px"
+      },
+      {
+        "type": "image",
+        "url": "https://cdn.discordapp.com/attachments/1105320744910602342/1110497566405181512/logo_Rudy.png",
+        "position": "absolute",
+        "size": "41px",
+        "offsetBottom": "265px",
+        "offsetStart": "20px"
+      }
+    ]
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Total UR :",
+        "position": "absolute",
+        "offsetBottom": "3px",
+        "color": "#FFFFFF",
+        "size": "xs",
+        "offsetStart": "5px"
+      },
+      {
+        "type": "text",
+        "text": "1,000,000",
+        "position": "absolute",
+        "offsetBottom": "3px",
+        "color": "#FFFFFF",
+        "size": "xs",
+        "offsetStart": "65px",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "ราคา LP :",
+        "position": "absolute",
+        "offsetBottom": "3px",
+        "color": "#FFFFFF",
+        "size": "xs",
+        "offsetStart": "160px"
+      },
+      {
+        "type": "text",
+        "text": "1,000,000",
+        "position": "absolute",
+        "offsetBottom": "3px",
+        "color": "#FFFFFF",
+        "size": "xs",
+        "offsetStart": "220px",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "฿",
+        "position": "absolute",
+        "offsetBottom": "3px",
+        "color": "#FFFFFF",
+        "size": "xs",
+        "offsetStart": "282px",
+        "weight": "bold"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "position": "absolute",
+        "height": "20px",
+        "backgroundColor": "#FFFFFF",
+        "offsetBottom": "4px",
+        "width": "1px",
+        "offsetStart": "150px"
+      }
+    ],
+    "backgroundColor": "#3768BB",
+    "width": "300px",
+    "height": "20px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ข้อมูล Batch",
+        "position": "absolute",
+        "weight": "bold",
+        "color": "#3768BB",
+        "offsetTop": "20px",
+        "offsetStart": "175px",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://linecorp.com/"
+        }
+      },
+      {
+        "type": "text",
+        "text": "รายละเอียด",
+        "position": "absolute",
+        "weight": "bold",
+        "color": "#3768BB",
+        "offsetTop": "20px",
+        "offsetStart": "40px",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://linecorp.com/"
+        }
+      },
+      {
+        "type": "text",
+        "text": "ตั้งค่า",
+        "position": "absolute",
+        "weight": "bold",
+        "color": "#3768BB",
+        "offsetTop": "66px",
+        "offsetStart": "130px",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://linecorp.com/"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "contents": [],
+        "width": "300px",
+        "height": "1px",
+        "backgroundColor": "#898988",
+        "offsetStart": "0px",
+        "offsetTop": "54px",
+        "position": "absolute"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "position": "absolute",
+        "backgroundColor": "#898988",
+        "width": "1px",
+        "height": "40px",
+        "offsetStart": "150px",
+        "offsetTop": "10px"
+      }
+    ],
+    "height": "100px"
+  }
+}

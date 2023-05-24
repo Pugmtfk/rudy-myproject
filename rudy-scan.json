@@ -1,0 +1,87 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://media.discordapp.net/attachments/1105320744910602342/1110142855382577223/Group_6556_1.png",
+        "size": "full",
+        "aspectRatio": "16:9",
+        "aspectMode": "cover"
+      },
+      {
+        "type": "text",
+        "text": "น้อง RUDY (รู้ดี)",
+        "position": "absolute",
+        "weight": "bold",
+        "color": "#FFFFFF",
+        "offsetTop": "5px",
+        "offsetStart": "20px",
+        "size": "xl"
+      },
+      {
+        "type": "text",
+        "text": "ช่วยสแกนรูปสินค้า",
+        "position": "absolute",
+        "color": "#FFFFFF",
+        "offsetTop": "35px",
+        "offsetStart": "20px",
+        "size": "lg"
+      },
+      {
+        "type": "image",
+        "url": "https://media.discordapp.net/attachments/1105320744910602342/1110142806804156426/Group_6605_2.png",
+        "offsetStart": "175px",
+        "size": "120px",
+        "position": "absolute"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ค้นหาเลยที่นี่",
+                "weight": "bold",
+                "offsetStart": "55px",
+                "offsetTop": "15px",
+                "color": "#FFFFFF",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              }
+            ],
+            "height": "50px",
+            "backgroundColor": "#b61a2b",
+            "width": "190px",
+            "offsetStart": "60px",
+            "offsetTop": "15px",
+            "cornerRadius": "10px"
+          }
+        ],
+        "width": "300px",
+        "height": "100px",
+        "backgroundColor": "#FFFFFF",
+        "position": "absolute",
+        "cornerRadius": "xl",
+        "offsetTop": "90px"
+      },
+      {
+        "type": "image",
+        "url": "https://cdn.discordapp.com/attachments/960436959493361704/1110814012289065001/arm1.png",
+        "position": "absolute",
+        "offsetStart": "175px",
+        "offsetBottom": "49px",
+        "size": "120px"
+      }
+    ]
+  }
+}
