@@ -1,0 +1,416 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ข้อมูลสินค้าเรียบร้อย",
+        "position": "absolute",
+        "offsetStart": "70px",
+        "color": "#FFFFFF",
+        "weight": "bold",
+        "size": "17px",
+        "offsetTop": "20px"
+      },
+      {
+        "type": "image",
+        "url": "https://media.discordapp.net/attachments/960436959493361704/1111210320359342180/Path_8.png",
+        "size": "17px",
+        "position": "absolute",
+        "offsetStart": "260px",
+        "offsetTop": "22px"
+      },
+      {
+        "type": "image",
+        "url": "https://media.discordapp.net/attachments/960436959493361704/1111210339296608276/Mask.png",
+        "size": "17px",
+        "position": "absolute",
+        "offsetStart": "265px",
+        "offsetTop": "19px"
+      },
+      {
+        "type": "image",
+        "url": "https://media.discordapp.net/attachments/960436959493361704/1111211540008415252/Group_1.png",
+        "size": "40px",
+        "position": "absolute",
+        "offsetTop": "12px",
+        "offsetStart": "20px"
+      }
+    ],
+    "backgroundColor": "#B4192D",
+    "width": "300px",
+    "height": "60px"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://cdn.discordapp.com/attachments/960436959493361704/1111217232874307584/Mask_group.png",
+        "position": "absolute",
+        "size": "90px",
+        "offsetStart": "230px",
+        "offsetTop": "65px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เลขที่ใบสั่งซื้อ",
+            "weight": "bold",
+            "size": "12px",
+            "align": "start",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "text": "วันที่สร้าง",
+            "size": "12px",
+            "weight": "bold",
+            "align": "end",
+            "color": "#000000"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "PO15968304",
+            "weight": "bold",
+            "size": "15px",
+            "align": "start",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "text": "09/05/2022",
+            "weight": "bold",
+            "size": "15px",
+            "align": "end",
+            "color": "#000000"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "8,789 บาท",
+            "weight": "bold",
+            "size": "20px",
+            "align": "center",
+            "color": "#373737"
+          }
+        ],
+        "margin": "xxl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "(สินค้าราคาไม่รวม vat % และ ไม่รวมราคา",
+            "size": "11px",
+            "color": "#7F7F7F",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "โครงสร้างส่วนลดเครดิตเงินเชื่อของแต่ละร้าน)",
+            "size": "11px",
+            "color": "#7F7F7F",
+            "align": "center"
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รวมจำนวนทั้งหมด 10 รายการ",
+            "color": "#A9182A",
+            "weight": "bold",
+            "align": "center"
+          }
+        ],
+        "margin": "lg"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "width": "300px",
+        "backgroundColor": "#e6e6e6",
+        "height": "1px",
+        "margin": "md"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "คุณสุวดี",
+            "size": "16px",
+            "weight": "bold",
+            "align": "start",
+            "color": "#373737"
+          },
+          {
+            "type": "text",
+            "text": "ร้านเจริญทรัพย์",
+            "weight": "bold",
+            "size": "15px",
+            "color": "#373737",
+            "align": "end"
+          }
+        ],
+        "offsetTop": "5px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สินค้าซื้อซ้ำของร้านท่าน Top 15",
+            "color": "#A9182A",
+            "weight": "bold",
+            "size": "12px",
+            "gravity": "top",
+            "align": "start",
+            "position": "absolute",
+            "offsetTop": "5px",
+            "offsetStart": "5px"
+          },
+          {
+            "type": "text",
+            "text": "2 รายการ",
+            "color": "#A9182A",
+            "size": "12px",
+            "weight": "bold",
+            "align": "end"
+          }
+        ],
+        "margin": "xxl",
+        "backgroundColor": "#FFF0F0",
+        "width": "260px",
+        "height": "24px",
+        "cornerRadius": "2px",
+        "paddingAll": "5px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สินค้าซื้อซ้ำของจังหวัด Top 15",
+            "color": "#A9182A",
+            "weight": "bold",
+            "size": "12px",
+            "gravity": "top",
+            "align": "start",
+            "position": "absolute",
+            "offsetTop": "5px",
+            "offsetStart": "5px"
+          },
+          {
+            "type": "text",
+            "text": "4 รายการ",
+            "color": "#A9182A",
+            "size": "12px",
+            "weight": "bold",
+            "align": "end"
+          }
+        ],
+        "backgroundColor": "#FFF0F0",
+        "width": "260px",
+        "height": "24px",
+        "cornerRadius": "2px",
+        "paddingAll": "5px",
+        "margin": "5px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สินค้าใหม่มาแรง",
+            "size": "12px",
+            "color": "#A9182A",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "3 รายการ",
+            "color": "#A9182A",
+            "size": "12px",
+            "align": "end",
+            "weight": "bold"
+          }
+        ],
+        "margin": "5px",
+        "backgroundColor": "#FFF0F0",
+        "width": "260px",
+        "height": "24px",
+        "cornerRadius": "2px",
+        "paddingAll": "5px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สินค้า Non Stock",
+            "size": "12px",
+            "color": "#A9182A",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "1 รายการ",
+            "color": "#A9182A",
+            "size": "12px",
+            "align": "end",
+            "weight": "bold"
+          }
+        ],
+        "margin": "5px",
+        "backgroundColor": "#FFF0F0",
+        "width": "260px",
+        "height": "24px",
+        "cornerRadius": "2px",
+        "paddingAll": "5px"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ดูรายละเอียดทั้งหมด",
+            "color": "#A9182A",
+            "weight": "bold",
+            "align": "center"
+          }
+        ],
+        "width": "260px",
+        "height": "40px",
+        "borderWidth": "2px",
+        "borderColor": "#A9182A",
+        "margin": "xxl",
+        "cornerRadius": "10px",
+        "paddingAll": "8px"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://media.discordapp.net/attachments/960436959493361704/1111213529366798336/logo_Rudy.png",
+            "size": "35px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ดาวน์โหลด Excel",
+                "size": "12px",
+                "color": "#ffffff",
+                "weight": "bold",
+                "offsetStart": "27px",
+                "offsetTop": "9px",
+                "align": "start"
+              },
+              {
+                "type": "image",
+                "url": "https://media.discordapp.net/attachments/960436959493361704/1111212140855050301/Fill_1.png",
+                "position": "absolute",
+                "size": "20px",
+                "offsetTop": "5px",
+                "offsetStart": "5px"
+              }
+            ],
+            "backgroundColor": "#027C00",
+            "width": "128px",
+            "height": "35px",
+            "cornerRadius": "10px",
+            "offsetEnd": "5px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ดาวน์โหลด PDF",
+                "size": "12px",
+                "color": "#ffffff",
+                "weight": "bold",
+                "offsetTop": "9px",
+                "offsetStart": "30px"
+              },
+              {
+                "type": "image",
+                "url": "https://media.discordapp.net/attachments/960436959493361704/1111212140855050301/Fill_1.png",
+                "position": "absolute",
+                "size": "20px",
+                "offsetTop": "5px",
+                "offsetStart": "5px"
+              }
+            ],
+            "backgroundColor": "#BE152A",
+            "width": "126px",
+            "height": "35px",
+            "cornerRadius": "10px"
+          }
+        ],
+        "margin": "md"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://media.discordapp.net/attachments/960436959493361704/1111213529366798336/logo_Rudy.png",
+            "size": "30px",
+            "offsetBottom": "5px",
+            "offsetStart": "83px"
+          },
+          {
+            "type": "text",
+            "text": "BOT",
+            "offsetBottom": "28px",
+            "color": "#417BD9",
+            "size": "10px",
+            "offsetStart": "235px"
+          }
+        ],
+        "height": "20px",
+        "width": "260px",
+        "margin": "sm"
+      }
+    ],
+    "height": "465px"
+  }
+}
